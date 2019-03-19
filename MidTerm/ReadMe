@@ -1,0 +1,12 @@
+King Bear
+
+This code will contain a drawing/image of a bear as the main highlight of the code.
+The bears eyes will be slowing moving back and forth showing a eye-like motion.
+There will be a pink button in the left top corner. This button will allow you to hover over it and a crown will appear when your cursor is on top of the button. Thank the crown will dissepear once the cursor is moved away from the button.
+The background of the canvas will be black with confetti slowly falling down. The confetti can be moved once the mouse is pressed and than more confetting will continue to loop the whole time.
+
+Interactions 
+-Pink Button (changes colors and from a cursor to a hand when your hovered over it. Crown will appear once hovered over)
+-confetti (when you press the mouse and move it the confetti will follow that direction)
+- Eyes (the eyes are moving back and forth with across the x axis )
+-
